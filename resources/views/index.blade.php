@@ -31,6 +31,8 @@
     <div class="row">
         <div class="col-md-5">
         <h1 class="pr-2">Hello, Radit!</h1>
+        <h1 class="pr-2">Hello, Kanthey!</h1>
+        <h1 class="pr-2">Hello, Rahbaja!</h1>
         </div>
     </div>
 </div>
