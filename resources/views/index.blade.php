@@ -33,7 +33,7 @@
         <h1 class="pr-2">Hello, Radit!</h1>
         <h1 class="pr-2">Hello, Kanthey!</h1>
         <h1 class="pr-2">Hello, Rahbaja!</h1>
-        <h1> mantapppppp </h1>
+        <h1> mantapppppp jiwa </h1>
         </div>
     </div>
 </div>
